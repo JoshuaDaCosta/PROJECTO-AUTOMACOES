@@ -28,7 +28,25 @@ Este projeto é uma automação em Python inspirada no **primeiro vídeo da play
 
 1. Clone o repositório:  
    ```bash
-   git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
+    git clone https://github.com/JoshuaDaCosta/PROJECTO-AUTOMACOES.git
+  ```bash
+    pip install -r requirements.txt
+  ```
+  ```bash
+    pip install pyautogui openpyxl
+  ```
+# Acesse a pasta do projecto_1
+ - *1 roda este arquivo*
+
+```bash 
+  pip tela.py
+```
+- *2 roda este arquivo*
+
+```bash 
+  pip app.py
+```
+> ⚠️ **Aviso:** coloque o tela no direito com o atalho win + seta esquerda por causa das coordenadas do rato!
 
 
 ---
